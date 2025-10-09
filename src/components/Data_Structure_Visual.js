@@ -1,5 +1,5 @@
 import { Navigate, NavLink, Route, Routes, useParams } from "react-router";
-import Array from "../DataStructure/array";
+import Array from "../DataStructure/Array";
 import Stack from "../DataStructure/Stack";
 import Queue from "../DataStructure/Queue";
 import LinkedList from "../DataStructure/LinkedList";
